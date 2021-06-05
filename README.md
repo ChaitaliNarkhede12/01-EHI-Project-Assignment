@@ -1,9 +1,9 @@
 # EHI-Project-Assignment
-Designed and implemented application for maintaining contact information. It has angular 12 and .Net core 3.1 project
+Designed and implemented application for maintaining contact information. It has angular 12.0.3 and .Net core 3.1 project
 
-**Guidelines for Angular11 project -**
+**Guidelines for Angular 12.0.3 project -**
 
-To run the Angular 11 project, follow the below steps-
+To run the Angular 12.0.3 project, follow the below steps-
 
 1) run the cmd => npm install
 2) run cmd => npm install @angulat/cli@latest, also install the dependent package for application
