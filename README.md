@@ -9,7 +9,7 @@ To run the Angular 12.0.3 project, follow the below steps-
 2) run cmd => npm install @angulat/cli@latest, also install the dependent package for application
 3) run the project using command => ng serve -o --port 8200
 
-Below is the project structure for angular 11 project
+Below is the project structure for angular 12.0.3 project
 
 ![image](https://user-images.githubusercontent.com/58030402/120902020-a192ad00-c65b-11eb-9499-311dc7b63140.png)
 
