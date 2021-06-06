@@ -20,6 +20,6 @@ To run the .net core project, follow the below steps-
 
 1) run the .net core project and use that .net core project port in angular project, modify apiUrl property in contact-details.service file
 
-Below is the .net cre project structure-
+Below is the .net core project structure-
 
 ![image](https://user-images.githubusercontent.com/58030402/120902201-8d9b7b00-c65c-11eb-85b7-11c3dfcbfd34.png)
