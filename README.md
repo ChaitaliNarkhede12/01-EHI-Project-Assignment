@@ -25,7 +25,7 @@ Below is the .net core project structure-
 To run the Angular 12.0.3 project, follow the below steps-
 
 1) run the cmd => npm install
-2) run cmd => npm install @angulat/cli@latest, also install the dependent package for application
+2) run cmd => npm install @angular/cli@latest, also install the dependent package for application
 3) Add .net core project port in contact-details.service file, update the apiUrl property in service file
 4) run the project using command => ng serve -o --port 8200
 
