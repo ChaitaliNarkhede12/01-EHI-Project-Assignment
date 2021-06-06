@@ -13,6 +13,7 @@ To run the .net core project, follow the below steps-
 
 1) Add your connection string in appsetting.json in .net core project
 2) Run the .net core project
+3) Test the project using swagger, use url - http://localhost:39993/swagger/index.html
 
 Below is the .net core project structure-
 
